@@ -4,3 +4,15 @@
 .red{
     color: red;
 }
+.vks{
+    height:100%;
+    width:100%;
+}
+
+.title{
+    position: absolute;
+    top: 50%;
+    right: 31%;
+    /* background-color: azure; */
+    text-align: center;
+}
